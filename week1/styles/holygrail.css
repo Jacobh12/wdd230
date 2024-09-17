@@ -18,12 +18,13 @@ body {
   main {
     background: coral;
     grid-column: 1 / 3;
-    height: 620px;
+    height: 600px;
   }
   
   .right-sidebar {
     background: yellow;
     grid-column: 3 / 4;
+    width: 300px;
   }
   
   footer {
